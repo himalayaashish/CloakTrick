@@ -3,7 +3,7 @@
 <div align="center"> 🚀 Welcome to my git repo :<b>CloakTrick</b></div>
 
 #####   
-<img src="https://github.com/himalayaashish/harrypotter/blob/main/Harry_Potter.gif?raw=true" width="500"/>
+<img src="https://github.com/himalayaashish/CloakTrick/blob/main/Harry_Potter.gif?raw=true" width="500"/>
 
 
 #### CloakTrick Using OpenCV
